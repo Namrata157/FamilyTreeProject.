@@ -1,0 +1,9 @@
+*AutoIt script for file import*
+
+Run("Open")
+Sleep(3000)
+ControlFocus("Open","","Edit1")
+Sleep(3000)
+Send("C:\Users\mahaj\OneDrive\Desktop\family_tree_export_12.4.2023.json")
+Sleep(3000)
+ControlClick("Open","&Open","Button1")

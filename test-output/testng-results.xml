@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12839" started-at="2023-04-13T14:30:45 IST" finished-at="2023-04-13T14:30:57 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12839" started-at="2023-04-13T14:30:45 IST" finished-at="2023-04-13T14:30:57 IST">
+      <class name="testscript.SearchFamilyMemberTest">
+        <test-method status="PASS" signature="searchFamilyMemberTest()[pri:0, instance:testscript.SearchFamilyMemberTest@37374a5e]" name="searchFamilyMemberTest" duration-ms="12795" started-at="2023-04-13T14:30:45 IST" finished-at="2023-04-13T14:30:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchFamilyMemberTest -->
+      </class> <!-- testscript.SearchFamilyMemberTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

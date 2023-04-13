@@ -1,0 +1,9 @@
+*AutoIt script for file uploading*
+
+Run("Open")
+Sleep(3000)
+ControlFocus("Open","","Edit1")
+Sleep(3000)
+Send("C:\Users\mahaj\OneDrive\Desktop\Image.jpg")
+Sleep(3000)
+ControlClick("Open","&Open","Button1")
